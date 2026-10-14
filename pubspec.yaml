@@ -11,26 +11,26 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  sqflite: ^2.3.0
-  path_provider: ^2.1.1
-  path: ^1.8.3
-  image_picker: ^1.0.7
-  file_picker: ^6.1.1
-  local_auth: ^2.1.8
-  flutter_secure_storage: ^9.0.0
-  google_sign_in: ^6.2.1
-  http: ^1.1.0
-  archive: ^3.4.10
-  encrypt: ^5.0.3
-  intl: ^0.18.1
-  open_file: ^3.3.2
-  share_plus: ^7.2.1
-  shared_preferences: ^2.2.2
+  sqflite: any
+  path_provider: any
+  path: any
+  image_picker: any
+  file_picker: any
+  local_auth: any
+  flutter_secure_storage: any
+  google_sign_in: any
+  http: any
+  archive: any
+  encrypt: any
+  intl: any
+  open_file: any
+  share_plus: any
+  shared_preferences: any
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: any
 
 flutter:
   uses-material-design: true
