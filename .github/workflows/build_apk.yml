@@ -17,7 +17,7 @@ jobs:
           channel: 'stable'
           
       - name: Setup Android Project
-        run: flutter create . --org com.example --platforms android --overwrite
+        run: flutter create . --org com.example --platforms android --overwrite --project-name arcefeeey
           
       - run: flutter pub get
       
